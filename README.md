@@ -5,8 +5,10 @@ after passing the regularization methods (L1, L2, L1L2, and dropout) as selectab
 to guarantee the elimination of overfitting and optimize the accuracy of testing observed data.
 
 
-For attribution, cite this project as :
 
+
+If you use this code in your research, please consider citing it:
+```bibtex
 @misc{saadi2021intelligent,
   author = {Saadi, Zahraa},
   title = {Intelligent Automated System to Prevent Overfitting in {DNN} ({IASPO})},
@@ -14,3 +16,13 @@ For attribution, cite this project as :
   howpublished = {\url{https://github.com/ZahraaSaadi/Intelligent-Automated-system-to-prevent-overfitting-in-DNN-IASPO}},
   note = {GitHub repository}
 }
+```
+## Publications
+
+1- [Artificial Neural Network Hyperparameters Optimization: A Survey](https://online-journals.org/index.php/i-joe/article/view/34399)
+
+2- [Automatically Avoiding Overfitting in Deep Neural Networks by Using Hyper-Parameters Optimization Methods](https://online-journals.org/index.php/i-joe/article/view/38153)
+
+
+
+
